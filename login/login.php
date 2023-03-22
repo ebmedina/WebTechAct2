@@ -35,7 +35,7 @@
             <input type="submit" id="login" value="Login">
             <div class="signup_link">
                 Don't have account? <a href="http://localhost/Final-Act2/register/register.php">Sign up</a> <br>
-				<a href="http://localhost/Final-Act2/firstpage/firstpage.php">Home</a>
+				<a href="http://localhost/Final-Act2/index.php">Home</a>
             </div>
         </form>
     </div>
